@@ -38,7 +38,7 @@
 #include "php_ini.h"
 #include "php_globals.h"
 #include "ext/standard/info.h"
-#include "ext/standard/php_rand.h"
+#include "ext/random/php_random.h"
 #include "zend_smart_str.h"
 #include "php_mcrypt_filter.h"
 
